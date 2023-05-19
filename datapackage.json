@@ -245,7 +245,7 @@
     {
       "name": "potsdam_haushalt_entwurf_2018_date",
       "format": "csv",
-      "path": "https://storage.openspending.org/potsdam_haushalt_entwurf_2018_date.csv",
+      "path": "https://storage.openspending.org/potsdam-haushalt-2018-entwurf/potsdam_haushalt_entwurf_2018_date.csv",
       "mediatype": "text/csv",
       "bytes": 203553852,
       "dialect": {
